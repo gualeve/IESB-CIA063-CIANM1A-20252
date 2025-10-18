@@ -23,7 +23,7 @@ int main() {
 
     alunos[0].matricula = 20251410;
     alunos[0].dados.idade = 20;
-    alunos[0].dados.genero = Outro;
+    alunos[0].dados.genero = Outro;ex
     strcpy(alunos[0].dados.nome, "Joaquim Nabuco");
     
     scanf("%d", &alunos[0].dados.idade);
